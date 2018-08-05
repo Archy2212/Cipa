@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="icon" href="images/cipa.png" type="image/jpg" sizes="16x16">
 <title>Where we work</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
@@ -46,13 +47,13 @@
             </section>
           </div>
         </div>
-      </div>
+      </div><br>
       
     <!-- / content -->
     <!-- footer -->
-    <footer>
+ 
  @include('layout.footer')
-    </footer>
+    
     <!-- / footer -->
   </div>
 </div>
