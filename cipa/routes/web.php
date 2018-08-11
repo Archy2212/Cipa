@@ -46,7 +46,13 @@ Route::get('/test', function () {
     return view('test');
 });
 
+Route::get('/testimonial', function(){
+    return view('testimonial');
+});
 
+Route::get('/testimonial1', function(){
+    return view('testimonial1');
+});
 Route::get('/recentevents', function () {
     return view('recentevents');
 });
@@ -55,7 +61,9 @@ Route::get('/partners', function(){
     return view('partners');
 });
 
-
+Route::get('/developers', function(){
+    return view('developers');
+});
 Route::get('/become_a_member', function () {
     return view('become_a_member');
 });

@@ -62,7 +62,7 @@ div.desc {
                 <h2><strong>W</strong>ho we are</h2>
                 <div class="pad_bot1">
                     <div class="gallery">
-                  <figure><img src="images/whoweareimage.JPG" alt="Trolltunga Norway" width="300" height="225"></figure>
+                  <figure><img src="images/management-team3.JPG" alt="Trolltunga Norway" width="300" height="225"></figure>
                 </div>
                 </div>
                We are a group of parents of cleft children who got together and decided to help other parents of cleft children. <a href="/whoweare" class="button1">Read More</a> </section>

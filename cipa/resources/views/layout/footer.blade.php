@@ -25,5 +25,7 @@
 
                  </div>
       <div id="footer_text">Copyright &copy; <a href="#">CIPA India</a> All Rights Reserved<br>
-        Design by <a target="_blank" href="https://www.kiet.edu/#/Department/Home">KIET MCA</a></div>
+        Design by <a target="_blank" href="https://www.kiet.edu/#/Department/Home">KIET MCA</a><br>
+        <a target="_blank" href="/developers">Developers</a>
+      </div>
     </footer>

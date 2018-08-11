@@ -25,7 +25,7 @@ body file
                 <div class="pad_bot1">
                   <figure><img src="images/vinayak.jpg"  height="210px" width="270px" alt=""></figure>
                 </div>
-                This Hope Center Template goes with two packages – with PSD source files and without them.<a href="/test" class="button1 color2">Read More</a> </section>
+                This Hope Center Template goes with two packages – with PSD source files and without them.<a href="/testimonial1" class="button1 color2">Read More</a> </section>
                 <section class="col1 pad_left1">
                 <h2 class="color3"><strong>S</strong>uccess<span> Story</span></h2>
                 <div class="pad_bot1">
@@ -33,7 +33,7 @@ body file
                 </div>
                 With courage in her heart and might in her pocket,
                 With zeal in her eyes and stardust in her locket,
-                She had her destination and knew how to knock it<a href="/test" class="button1 color2">Read More</a> </section>
+                She had her destination and knew how to knock it<a href="/testimonial" class="button1 color2">Read More</a> </section>
 
 
 

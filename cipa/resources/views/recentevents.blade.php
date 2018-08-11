@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="icon" href="images/cipa.png" type="image/jpg" sizes="16x16">
 <title>Events</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
@@ -31,13 +32,17 @@
        <div class="wrapper">
         <div class="box1">
           <div class="wrapper">
-            <section class="col1">
-              <h2><strong>E</strong>vents</h2>
+            
+              <h2  class="color3"><strong>E</strong>vents</h2>
              
                 <figure class="left marg_right1"><img src="images/new_statesman_events.jpg" >
                 </figure><br><br>
-                <p><h2><strong>F</strong>orthcoming Event: Mount Abu Programme</h2></p>
-            </section>
+                <p><h2><strong>R</strong>ecent Event: Mount Abu Programme</h2></p>
+            
+
+            <figure class="left marg_right1"><img src="images/WEBSITE-ROCKET-LAUNCH.png" width="920px">
+                </figure><br><br>
+                <p><h2><strong>F</strong>orthcoming Event: Website Launch</h2></p>
           </div>
         </div>
       </div>

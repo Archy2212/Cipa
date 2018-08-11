@@ -169,22 +169,12 @@ div.desc {
     <img src="images/k27.jpg" alt="Forest" width="300" height="225">
   </a>
   
-</div> <div class="gallery">
-  <a target="_blank" href="images/k28.jpg">
-    <img src="images/k28.jpg" alt="Forest" width="300" height="225">
-  </a>
-  
-</div> <div class="gallery">
+</div>  <div class="gallery">
   <a target="_blank" href="images/k29.jpg">
     <img src="images/k29.jpg" alt="Forest" width="300" height="225">
   </a>
   
-</div> <div class="gallery">
-  <a target="_blank" href="images/k30.jpg">
-    <img src="images/k30.jpg" alt="Forest" width="300" height="225">
-  </a>
-  
-</div>
+</div> 
 
             </section>
           </div>
